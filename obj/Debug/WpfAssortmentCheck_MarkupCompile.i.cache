@@ -1,0 +1,20 @@
+﻿WpfAssortmentCheck
+
+
+winexe
+C#
+.cs
+d:\ДИПЛОМЫ 2024\Домрачев\obj\Debug\
+WpfAssortmentCheck
+none
+false
+DEBUG;TRACE
+d:\ДИПЛОМЫ 2024\Домрачев\App.xaml
+24-1683473256
+21678415444
+482035809699
+29929112266
+Dictionary1.xaml;Pages\AbonementPage.xaml;Pages\AddBuyPage.xaml;Pages\AddGoodPage.xaml;Pages\BuyPage.xaml;Pages\CatalogOfGoods.xaml;Pages\CategoryPage.xaml;Pages\GoodsPage.xaml;Pages\OrderPage.xaml;Pages\SellPage.xaml;Pages\StatusPage.xaml;Pages\AddNewOrderPage.xaml;Pages\TimeTablePage.xaml;Pages\UserOrderPage.xaml;Pages\VisitPage.xaml;Windows\AbonementWindow.xaml;Windows\CategoryWindow.xaml;Windows\ClientWindow.xaml;Windows\LoginWindow.xaml;Windows\MainWindow.xaml;Windows\MakeOrderWindow.xaml;Windows\StatusWindow.xaml;Windows\TimeTableWindow.xaml;Windows\VisitWindow.xaml;
+
+True
+
